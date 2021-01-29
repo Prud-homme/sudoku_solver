@@ -1,5 +1,4 @@
-# sudoku_solver
-Solve Sudoku with Python
+# Solve Sudoku with Python
 
 # How it works
 1. Use Python to run the script
